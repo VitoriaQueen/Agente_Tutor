@@ -14,3 +14,12 @@ Ele responde dúvidas teóricas, gera exercícios, explica conceitos de redes, c
 - Ajudar na resolução de exercícios.  
 - Gerar planos de estudo para iniciantes ou avançados.
 
+### Exemplos de perguntas:
+
+- “Explique o funcionamento do protocolo OSPF.”  
+- “Me dê um exemplo de configuração de VLAN e trunk.”  
+- “Gere um quiz com 5 questões sobre subnetting.”  
+- “Como configuro uma ACL padrão e estendida?”  
+- “Resuma o funcionamento do STP.”  
+
+---
