@@ -23,3 +23,17 @@ Ele responde dúvidas teóricas, gera exercícios, explica conceitos de redes, c
 - “Resuma o funcionamento do STP.”  
 
 ---
+## Arquitetura do Projeto
+
+- **Agente Tutor de CCNA** (LLM)
+- Console para testes e simulação de conversas
+- O usuário pergunta e o agente responde com explicações detalhadas
+
+---
+## Vídeo demonstrativo contendo:
+1. Criação de um grupo de recursos.
+2. Criação de um recurso do AI Foundry.
+3. O deployment de um modelo.
+4. Criação do Agente Tutor.
+5. Criação de um Workflow.
+6. Uso do Agente no Chat Playground para testar como o tutor se comporta.
