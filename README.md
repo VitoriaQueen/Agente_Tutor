@@ -6,6 +6,7 @@ Ele responde dúvidas teóricas, gera exercícios, explica conceitos de redes, c
 ---
 
 ## Descrição do Agente
+
 - Explicar conceitos essenciais e rede (OSI, TCP/IP, VLANs, STP, IP addressing, etc...)
 - Fornecer exemplos reais de configurações Cisco.  
 - Criar quizzes personalizados conforme o tema estudado.  
