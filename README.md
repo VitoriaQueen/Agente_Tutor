@@ -64,6 +64,6 @@ flowchart TD
 4. Criação do Agente Tutor.
 5. Uso do Agente no Chat Playground para testar como o tutor se comporta.
 
-[Azure Frontier Girls Challenge Video 1]: (https://youtu.be/VcNyDnDoqek)
+Azure Frontier Girls Challenge Video 1: https://img.youtube.com/vi/VcNyDnDoqek/maxresdefault.jpg  
 
-[Azure Frontier Girls Challenge Video 2]: (https://youtu.be/d03GA3xGTG0)
+Azure Frontier Girls Challenge Video 2: https://img.youtube.com/vi/d03GA3xGTG0/maxresdefault.jpg
