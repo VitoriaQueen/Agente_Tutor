@@ -67,3 +67,18 @@ flowchart TD
 Azure Frontier Girls Challenge Video 1: https://www.youtube.com/watch?v=VcNyDnDoqek
 
 Azure Frontier Girls Challenge Video 2: https://www.youtube.com/watch?v=d03GA3xGTG0
+
+---
+## Prints do Projeto
+Log das conversas
+![Exemplo de um thread log](C:\Users\Vitoria\Videos\AI_Tutor_Foundry\Agente_Tutor\Thread_log_sample)
+![Exemplo de metadata](C:\Users\Vitoria\Videos\AI_Tutor_Foundry\Agente_Tutor\Metadata_sample)
+
+---
+Referências
+
+Cisco NetAcad: https://www.netacad.com
+
+Cisco Learning Network: https://learningnetwork.cisco.com
+
+Microsoft AI Foundry: https://ai.azure.com
