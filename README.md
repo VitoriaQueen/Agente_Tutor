@@ -71,8 +71,8 @@ Azure Frontier Girls Challenge Video 2: https://www.youtube.com/watch?v=d03GA3xG
 ---
 ## Prints do Projeto
 Log das conversas
-![Exemplo de um thread log](./imagens/Thread_log_sample.jpg)
-![Exemplo de metadata](./imagens/Metadata_sample.jpg)
+![Exemplo de um thread log](imagens\Thread_log_sample.jpg) 
+![Exemplo de metadata](imagens\Metadata_sample.jpg)
 
 ---
 Referências
